@@ -9,13 +9,13 @@ Main functions provided here are:
 
 - Custom designing of model validation regions:
 
-![alt-text](./images/ARCMFC_BGC_validation_regions.png)
-![alt-text](./images/ARCMFC_BGC_validation_regions_set-2.png)
+<img src="./images/ARCMFC_BGC_validation_regions.png" width="800">
+<img src="./images/ARCMFC_BGC_validation_regions_set-2.png" width="800">
 
 - Creation of mask file compatible with `make_OM_regional_masks.py` -saved mask file
 - Creation of mask file useful for generating Polygon data for each validation region
 - Subsetting model variable using mask file:
 
-![alt-text](./images/ARCMFC_BGC_subsetting_depth_BRTS.png)
+<img src="./images/ARCMFC_BGC_subsetting_depth_BRTS.png" width="800">
 
 For further detail, see the notebook.
