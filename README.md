@@ -12,7 +12,7 @@ Main functions provided here are:
 <img src="./images/ARCMFC_BGC_validation_regions.png" width="800">
 <img src="./images/ARCMFC_BGC_validation_regions_set-2.png" width="800">
 
-- Creation of mask file compatible with `make_OM_regional_masks.py` -saved mask file
+- Creation of mask file compatible with [make_OM_regional_masks.py](https://github.com/nansencenter/NERSC-HYCOM-CICE/tree/bgc_validation_folder/bin/bgc.validation/make_OM_regional_masks.py) -saved mask file
 - Creation of mask file useful for generating Polygon data for each validation region
 - Subsetting model variable using mask file:
 
