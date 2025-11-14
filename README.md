@@ -16,6 +16,6 @@ Main functions provided here are:
 - Creation of mask file useful for generating Polygon data for each validation region
 - Subsetting model variable using mask file:
 
-<img src="./images/ARCMFC_BGC_subsetting_depth_BRTS.png" width="800">
+<img src="./images/ARCMFC_BGC_subsetting_depth_BRTS.png" width="600">
 
 For further detail, see the notebook.
