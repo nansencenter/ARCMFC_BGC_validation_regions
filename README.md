@@ -1,5 +1,5 @@
 # ARCMFC_BGC_validation_regions
-Common validation regions for ARC MFC BGC products regional validation
+Common regions for ARC MFC BGC products regional validation
 
 Jupyter notebook `def_validation_regions.ipynb` for designing your own regional masks. This notebook is for complimenting NERSC-HYCOM-CICE BGC validation tool on NERSC github repository:
 
